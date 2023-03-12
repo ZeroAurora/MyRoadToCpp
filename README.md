@@ -1,6 +1,6 @@
 # My Road To C++
 
-Oringinally with a purpose to write a graphicial manager for [WinLibs](https://winlibs.com/), I decided to learn some basic C++.
+Originally with a purpose to write a graphicial manager for [WinLibs](https://winlibs.com/), I decided to learn some basic C++.
 
 C++ is known for its complexity and internal chaos, but I still believe it is a "de facto" industry standard in high-level programming. Rust is great, but it lacks of a strong base for user-facing application development. In C++, there are Qt, GTKmm, wxWidgets, Win32/MFC/WinUI and more. And Rust introduces some concepts to memory management which I think should be learned later. So, let's go with C++ first. (And Rust later, maybe!)
 
