@@ -6,7 +6,7 @@ C++ is known for its complexity and internal chaos, but I still believe it is a 
 
 Here I opened a repository to track my learning progress. Firstly I will use the great book *A Tour of C++ (Second Edition)* (Chinese Translation) by C++'s creator Bjarne Stroustrup. Then I will progress to GUI development with some great libraries. Eventually I will learn some C++. Hopefully.
 
-Will be in Chinese only. 
+Will be in Chinese only. This readme is only for description.
 
 ## License
 
